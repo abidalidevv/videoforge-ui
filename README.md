@@ -30,3 +30,9 @@ Pull requests are welcome. For major changes, please open an issue first.
 ```bash
 npm install
 ```
+
+
+/* --- ACTIVITY LOG START --- */
+<!-- Learned: MySQL joins, indexes, and EXPLAIN queries -->
+
+/* --- ACTIVITY LOG END --- */
