@@ -33,6 +33,6 @@ npm install
 
 
 /* --- ACTIVITY LOG START --- */
-<!-- Learned: MySQL joins, indexes, and EXPLAIN queries -->
+<!-- Learned: WooCommerce cart and checkout hooks -->
 
 /* --- ACTIVITY LOG END --- */
