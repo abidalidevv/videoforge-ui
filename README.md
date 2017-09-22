@@ -33,6 +33,6 @@ npm install
 
 
 /* --- ACTIVITY LOG START --- */
-<!-- Learned: WooCommerce cart and checkout hooks -->
+<!-- Learned: JavaScript closures and module pattern -->
 
 /* --- ACTIVITY LOG END --- */
