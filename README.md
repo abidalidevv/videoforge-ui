@@ -33,6 +33,6 @@ npm install
 
 
 /* --- ACTIVITY LOG START --- */
-<!-- Learned: WordPress hooks system (actions and filters) -->
+<!-- Learned: React component lifecycle and hooks -->
 
 /* --- ACTIVITY LOG END --- */
