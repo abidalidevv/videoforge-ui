@@ -33,6 +33,6 @@ npm install
 
 
 /* --- ACTIVITY LOG START --- */
-<!-- Learned: React component lifecycle and hooks -->
+<!-- Learned: MySQL joins, indexes, and EXPLAIN queries -->
 
 /* --- ACTIVITY LOG END --- */
