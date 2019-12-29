@@ -33,6 +33,6 @@ npm install
 
 
 /* --- ACTIVITY LOG START --- */
-<!-- Learned: PHP OOP — classes, inheritance, interfaces -->
+<!-- Learned: Tailwind CSS responsive utility classes -->
 
 /* --- ACTIVITY LOG END --- */
