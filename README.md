@@ -33,6 +33,6 @@ npm install
 
 
 /* --- ACTIVITY LOG START --- */
-<!-- Learned: Tailwind CSS responsive utility classes -->
+<!-- Learned: Node.js event loop and async I/O model -->
 
 /* --- ACTIVITY LOG END --- */
