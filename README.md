@@ -33,6 +33,6 @@ npm install
 
 
 /* --- ACTIVITY LOG START --- */
-<!-- Learned: Node.js event loop and async I/O model -->
+<!-- Learned: MySQL joins, indexes, and EXPLAIN queries -->
 
 /* --- ACTIVITY LOG END --- */
