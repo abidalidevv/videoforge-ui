@@ -33,6 +33,6 @@ npm install
 
 
 /* --- ACTIVITY LOG START --- */
-<!-- Learned: Database normalization and query optimization -->
+<!-- Learned: MySQL joins, indexes, and EXPLAIN queries -->
 
 /* --- ACTIVITY LOG END --- */
