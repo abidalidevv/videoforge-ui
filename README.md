@@ -33,6 +33,6 @@ npm install
 
 
 /* --- ACTIVITY LOG START --- */
-<!-- Learned: MySQL joins, indexes, and EXPLAIN queries -->
+<!-- Learned: TypeScript generics and utility types -->
 
 /* --- ACTIVITY LOG END --- */
