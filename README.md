@@ -33,6 +33,6 @@ npm install
 
 
 /* --- ACTIVITY LOG START --- */
-<!-- Learned: TypeScript generics and utility types -->
+<!-- Learned: WooCommerce cart and checkout hooks -->
 
 /* --- ACTIVITY LOG END --- */
