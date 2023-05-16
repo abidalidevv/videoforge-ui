@@ -33,6 +33,6 @@ npm install
 
 
 /* --- ACTIVITY LOG START --- */
-<!-- Learned: Python scripting for automation tasks -->
+<!-- Learned: WooCommerce cart and checkout hooks -->
 
 /* --- ACTIVITY LOG END --- */
