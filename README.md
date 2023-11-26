@@ -33,6 +33,6 @@ npm install
 
 
 /* --- ACTIVITY LOG START --- */
-<!-- Learned: React component lifecycle and hooks -->
+<!-- Learned: REST API design principles and authentication -->
 
 /* --- ACTIVITY LOG END --- */
