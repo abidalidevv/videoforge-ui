@@ -33,6 +33,6 @@ npm install
 
 
 /* --- ACTIVITY LOG START --- */
-<!-- Learned: REST API design principles and authentication -->
+<!-- Learned: PHP OOP — classes, inheritance, interfaces -->
 
 /* --- ACTIVITY LOG END --- */
