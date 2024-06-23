@@ -33,6 +33,6 @@ npm install
 
 
 /* --- ACTIVITY LOG START --- */
-<!-- Learned: PHP OOP — classes, inheritance, interfaces -->
+<!-- Learned: GoHighLevel API — webhooks and automation -->
 
 /* --- ACTIVITY LOG END --- */
