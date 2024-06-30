@@ -33,6 +33,6 @@ npm install
 
 
 /* --- ACTIVITY LOG START --- */
-<!-- Learned: GoHighLevel API — webhooks and automation -->
+<!-- Learned: Tailwind CSS responsive utility classes -->
 
 /* --- ACTIVITY LOG END --- */
