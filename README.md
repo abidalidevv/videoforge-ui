@@ -33,6 +33,6 @@ npm install
 
 
 /* --- ACTIVITY LOG START --- */
-<!-- Learned: Tailwind CSS responsive utility classes -->
+<!-- Learned: TypeScript generics and utility types -->
 
 /* --- ACTIVITY LOG END --- */
