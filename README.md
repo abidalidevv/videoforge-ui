@@ -33,6 +33,6 @@ npm install
 
 
 /* --- ACTIVITY LOG START --- */
-<!-- Learned: TypeScript generics and utility types -->
+<!-- Learned: JavaScript closures and module pattern -->
 
 /* --- ACTIVITY LOG END --- */
