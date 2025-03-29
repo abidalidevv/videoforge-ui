@@ -37,3 +37,7 @@ function assertDefined<T>(val: T|null|undefined, msg='Value undefined'): T {
   if (val==null) throw new Error(msg);
   return val;
 }
+
+function partition<T>(arr: T[], pred: (i:T)=>boolean): [T[],T[]] {
+  return arr.reduce<[T[],T[]]>(([y,n],i)=>pred(i)?[[...y,i],n]:[y,[...n,i]],[[],[]]);
+}
