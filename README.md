@@ -38,3 +38,5 @@ npm install
 /* --- ACTIVITY LOG END --- */
 
 <!-- Learned: React component lifecycle and hooks -->
+
+<!-- Learned: MySQL joins, indexes, and EXPLAIN queries -->
