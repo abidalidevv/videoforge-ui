@@ -40,3 +40,5 @@ npm install
 <!-- Learned: React component lifecycle and hooks -->
 
 <!-- Learned: MySQL joins, indexes, and EXPLAIN queries -->
+
+<!-- Learned: SEO technical fundamentals — Core Web Vitals -->
