@@ -33,6 +33,6 @@ npm install
 
 
 /* --- ACTIVITY LOG START --- */
-<!-- Learned: JavaScript closures and module pattern -->
+<!-- Learned: REST API design principles and authentication -->
 
 /* --- ACTIVITY LOG END --- */
