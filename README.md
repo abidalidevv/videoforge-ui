@@ -36,3 +36,5 @@ npm install
 <!-- Learned: Webpack bundling and code splitting -->
 
 /* --- ACTIVITY LOG END --- */
+
+<!-- Learned: React component lifecycle and hooks -->
