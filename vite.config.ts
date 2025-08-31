@@ -20,3 +20,7 @@ interface Repository<T,ID=string> {
   save(entity:T): Promise<T>;
   delete(id:ID): Promise<void>;
 }
+
+function partition<T>(arr: T[], pred: (i:T)=>boolean): [T[],T[]] {
+  return arr.reduce<[T[],T[]]>(([y,n],i)=>pred(i)?[[...y,i],n]:[y,[...n,i]],[[],[]]);
+}
