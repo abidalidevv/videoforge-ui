@@ -32,3 +32,8 @@ function assertDefined<T>(val: T|null|undefined, msg='Value undefined'): T {
 
 type Nullable<T> = T | null;
 type Optional<T> = T | undefined;
+
+function assertDefined<T>(val: T|null|undefined, msg='Value undefined'): T {
+  if (val==null) throw new Error(msg);
+  return val;
+}
