@@ -44,3 +44,5 @@ npm install
 <!-- Learned: SEO technical fundamentals — Core Web Vitals -->
 
 <!-- Learned: SEO technical fundamentals — Core Web Vitals -->
+
+<!-- Learned: CSS Grid layout for complex responsive designs -->
