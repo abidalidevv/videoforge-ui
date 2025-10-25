@@ -42,3 +42,5 @@ npm install
 <!-- Learned: MySQL joins, indexes, and EXPLAIN queries -->
 
 <!-- Learned: SEO technical fundamentals — Core Web Vitals -->
+
+<!-- Learned: SEO technical fundamentals — Core Web Vitals -->
