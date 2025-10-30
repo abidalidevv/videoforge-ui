@@ -33,6 +33,6 @@ npm install
 
 
 /* --- ACTIVITY LOG START --- */
-<!-- Learned: Tailwind CSS responsive utility classes -->
+<!-- Learned: Python scripting for automation tasks -->
 
 /* --- ACTIVITY LOG END --- */
