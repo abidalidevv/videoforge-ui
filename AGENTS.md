@@ -10,3 +10,5 @@
 <!-- LOVABLE:END -->
 
 <!-- Learned: PHP OOP — classes, inheritance, interfaces -->
+
+<!-- Learned: GoHighLevel API — webhooks and automation -->
