@@ -50,3 +50,5 @@ const debounce = (fn, delay) => { let t; return (...a) => { clearTimeout(t); t =
 async function fetchJSON(url, options={}) { const r=await fetch(url,options); if(!r.ok) throw new Error(`HTTP ${r.status}`); return r.json(); }
 
 const unique = arr => [...new Set(arr)];
+
+const groupBy = (arr, key) => arr.reduce((acc,i) => { (acc[i[key]]=acc[i[key]]||[]).push(i); return acc; }, {});
