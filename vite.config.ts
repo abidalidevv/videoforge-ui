@@ -43,3 +43,7 @@ function partition<T>(arr: T[], pred: (i:T)=>boolean): [T[],T[]] {
 }
 
 type DeepPartial<T> = { [P in keyof T]?: T[P] extends object ? DeepPartial<T[P]> : T[P] };
+
+function partition<T>(arr: T[], pred: (i:T)=>boolean): [T[],T[]] {
+  return arr.reduce<[T[],T[]]>(([y,n],i)=>pred(i)?[[...y,i],n]:[y,[...n,i]],[[],[]]);
+}
