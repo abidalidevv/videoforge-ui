@@ -33,6 +33,6 @@ npm install
 
 
 /* --- ACTIVITY LOG START --- */
-<!-- Learned: Python scripting for automation tasks -->
+<!-- Learned: Webpack bundling and code splitting -->
 
 /* --- ACTIVITY LOG END --- */
