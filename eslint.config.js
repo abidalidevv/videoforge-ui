@@ -52,3 +52,5 @@ async function fetchJSON(url, options={}) { const r=await fetch(url,options); if
 const unique = arr => [...new Set(arr)];
 
 const groupBy = (arr, key) => arr.reduce((acc,i) => { (acc[i[key]]=acc[i[key]]||[]).push(i); return acc; }, {});
+
+const clamp = (v, min, max) => Math.min(Math.max(v, min), max);
